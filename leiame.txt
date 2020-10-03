@@ -1,0 +1,5 @@
+ - É necessário ter o gcc para conseguir executar o programa
+ - Para executar o programa basta adicionar a entrada, em formato txt, na mesma pasta do programa
+e colocar o nome do arquivo de entrada na linha 181, no lugar de "SUBSTITUA AQUI".
+ - Feito isso, basta executar o comando "gcc -g relacao.c -o resposta" e executar o arquivo chamado
+"resposta"
